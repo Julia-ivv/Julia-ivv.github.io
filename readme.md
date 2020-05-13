@@ -1,2 +1,3 @@
-##https://github.com/Julia-ivv/Julia-ivv.github.io.git
-Версия 0.0.2
+##Валидация данных пользователя с помощью регулярных выражений
+##http://julia-ivv.github.io/
+Версия 0.0.8
